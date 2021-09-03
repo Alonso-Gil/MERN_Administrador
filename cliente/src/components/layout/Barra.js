@@ -3,7 +3,7 @@ import React from 'react';
 const Barra = () => {
     return ( 
         <header className="app-header">
-            <p className="nombre-usuario">OLA <span>puto</span></p>
+            <p className="nombre-usuario">!Buenos dias,  <span>Alonso Gil!</span></p>
 
             <nav className="nav-principal">
                 <a href="#!">Cerrar Sesión</a>

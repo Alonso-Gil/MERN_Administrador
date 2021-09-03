@@ -65,6 +65,7 @@ const NuevoProyecto = () => {
                     >
                         <input 
                             type="text"
+                            autoComplete="off"
                             className="input-text"
                             placeholder="Nombre Proyecto"
                             name="nombre"
