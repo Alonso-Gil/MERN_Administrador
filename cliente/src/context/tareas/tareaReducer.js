@@ -9,6 +9,7 @@ import {
     LIMPIAR_TAREA
 } from '../../types/index';
 
+// eslint-disable-next-line
 export default (state, action) => {
     switch(action.type) {
         case TAREAS_PROYECTO:
